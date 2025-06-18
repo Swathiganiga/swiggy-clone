@@ -59,12 +59,12 @@ Folder Structure
 └── README.md
 
 **Scripts:**
-npm start: Start the development server.
-npm run build: Build the project for production.
-npm test: Run tests.
+- npm start: Start the development server.
+- npm run build: Build the project for production.
+- npm test: Run tests.
 
 **How to Use::**
-Open the application in your browser.
-Browse restaurants and view their menus.
-Add items to the cart and proceed to checkout.
-Enjoy your food!
+- Open the application in your browser.
+- Browse restaurants and view their menus.
+- Add items to the cart and proceed to checkout.
+- Enjoy your food!
